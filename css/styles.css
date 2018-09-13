@@ -1,0 +1,13 @@
+body {
+  text-align:center;
+  font-family: arial;
+}
+
+h1 {
+  padding: 20px;
+}
+
+.greeting {
+  font-size: 18px;
+  color: #dd6688;
+}
